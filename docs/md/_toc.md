@@ -1,6 +1,7 @@
 [Home](/)
 [Markdown Cheat Sheet](/docs/cheat-sheet)
 [Code Features](/docs/code-features)
+[Test](/docs/test)
 
 <br><br>
 
