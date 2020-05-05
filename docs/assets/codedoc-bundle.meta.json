@@ -69,11 +69,6 @@
       "name": "zoomOnFormula",
       "filename": "/Users/mustaphabenchaaben/Code/coding-blog/test-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js",
       "hash": "zqDlKH3Yclg7ZQFPwP0ZCQ=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/Users/mustaphabenchaaben/Code/coding-blog/test-blog/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "F5Ey4/X4RlbF3DYokBRUbA=="
     }
   ],
   "components": [

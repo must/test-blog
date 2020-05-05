@@ -13,7 +13,6 @@ import { smoothLoading } from '/Users/mustaphabenchaaben/Code/coding-blog/test-b
 import { tocHighlight } from '/Users/mustaphabenchaaben/Code/coding-blog/test-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js';tocHighlight();
 import { postNavSearch } from '/Users/mustaphabenchaaben/Code/coding-blog/test-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { zoomOnFormula } from '/Users/mustaphabenchaaben/Code/coding-blog/test-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js';zoomOnFormula();
-import { reloadOnChange } from '/Users/mustaphabenchaaben/Code/coding-blog/test-blog/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js';reloadOnChange();
 import { ToCPrevNext } from '/Users/mustaphabenchaaben/Code/coding-blog/test-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 import { ToCToggle } from '/Users/mustaphabenchaaben/Code/coding-blog/test-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/Users/mustaphabenchaaben/Code/coding-blog/test-blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
