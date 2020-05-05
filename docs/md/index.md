@@ -7,4 +7,6 @@ the previous time for the page to be updated. Its not a proper blog system. I ha
 
 YAAAAAA!!!!!
 
+YEAHHHHHH
+
 > :ToCPrevNext
