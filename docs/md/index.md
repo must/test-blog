@@ -1,7 +1,5 @@
-# Codedoc Boilerplate test again and again
+# This is a Test Blog
 
-Modify `docs/md/index.md` to change the contents of this page. This will be your starting
-page on your GitHub Pages site.
-
+Don't take it too seriously.
 
 > :ToCPrevNext
