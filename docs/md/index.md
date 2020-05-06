@@ -1,4 +1,4 @@
-# This is a Test Blog by Must s
+# This is a Test Blog by Must s. Hi!
 
 Don't take it too seriously. I don't...
 
