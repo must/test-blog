@@ -5,6 +5,8 @@ import { config } from './config';
 import { content } from './content';
 import { installTheme$ } from './content/theme';
 
+dsadsa
+
 const root = join(__dirname, '../');
 
 serve(root, config, content, installTheme$, {
